@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Spring+Boot+%7C+Django+%7C+AI%2FML" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Spring+Boot+%7C+AI%2FML" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering Graduate  
-- 💻 Strong in **Java (Spring Boot), Python, Django, REST APIs**  
+- 💻 Strong in **Java (Spring Boot), Python, REST APIs**  
 - 🧠 Experience in **AI/ML & OpenCV systems**  
 - ⚡ Focused on **Backend Engineering & System Design**  
 - ☁️ Exploring **Cloud & scalable architectures**  
@@ -42,10 +42,10 @@
 
 ---
 
-### 📊 Online Test System (Django)
-- Full-stack app for managing online exams  
+### 📊 Online Test System
+- Web application for managing online exams  
 - Features authentication, dashboards & results  
-- Built using **Django + HTML/CSS**  
+- Backend-focused system with structured workflows  
 
 ---
 
@@ -67,7 +67,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,spring,django,html,css,bootstrap,mysql,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,html,css,bootstrap,mysql,git,postman" />
 </p>
 
 ---
