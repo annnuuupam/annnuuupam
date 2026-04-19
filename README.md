@@ -1,77 +1,78 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
-<h3 align="center">🚀 Software Engineer | Backend & Full Stack Developer</h3>
 
 <p align="center">
-Building scalable backend systems, full-stack applications, and AI-driven solutions with clean architecture.
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Spring+Boot+%7C+Django+%7C+AI%2FML" />
+</p>
+
+<p align="center">
+  🚀 Building scalable backend systems • Full Stack apps • AI-driven solutions
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering Graduate  
-- 💻 Strong in **Java (Spring Boot), Python, Django, REST APIs**
-- 🧠 Experience in **AI/ML & OpenCV-based systems**
-- ⚡ Focused on **Backend Engineering & System Design**
-- 🌱 Currently learning **Cloud Computing & Scalable Architectures**
+- 💻 Strong in **Java (Spring Boot), Python, Django, REST APIs**  
+- 🧠 Experience in **AI/ML & OpenCV systems**  
+- ⚡ Focused on **Backend Engineering & System Design**  
+- ☁️ Exploring **Cloud & scalable architectures**  
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🛒 NexCart – E-commerce Platform
-- Full-stack application with **customer & admin modules**
+- Full-stack system with **customer + admin panel**
 - Built using **Spring Boot, MySQL, REST APIs**
-- Implemented authentication, product management & order workflows
+- Handles authentication, products & order workflows  
 
 ---
 
 ### 🎥 Face Recognition Attendance System
-- Real-time attendance system using **OpenCV + KNN**
-- Built with **Python & Machine Learning**
-- Automated attendance tracking with high accuracy
+- Real-time attendance using **OpenCV + KNN**
+- Built with **Python & ML**
+- Automated logging with high accuracy  
 
 ---
 
 ### 🫁 Lung Cancer Detection System
-- Machine learning system for early cancer detection
-- Uses **patient data & predictive modeling**
-- Integrated **AI chatbot for assistance & guidance**
+- ML-based system for early detection  
+- Uses **predictive models + patient data**  
+- Integrated **AI chatbot for assistance**  
 
 ---
 
 ### 📊 Online Test System (Django)
-- Web application for managing online tests
-- Features authentication, dashboards & result processing
-- Built using **Django + HTML/CSS**
+- Full-stack app for managing online exams  
+- Features authentication, dashboards & results  
+- Built using **Django + HTML/CSS**  
 
 ---
 
-### 💼 SaleSavvy – Business Management System
-- Full-stack system for managing sales, customers & orders
-- Built using **Spring Boot + modern frontend tools**
-- Designed secure APIs with scalable backend architecture
+### 💼 SaleSavvy – Business System
+- Full-stack sales & customer management system  
+- Built with **Spring Boot + modern frontend**  
+- Secure APIs & scalable backend  
 
 ---
 
 ## 🧩 What I Build
-- 🔹 Backend systems using **Spring Boot & Django**
-- 🔹 REST APIs & scalable architectures  
+- 🔹 Scalable backend systems  
+- 🔹 REST APIs & microservices  
 - 🔹 AI/ML-based applications  
-- 🔹 Full-stack applications with database integration  
+- 🔹 Full-stack platforms  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java | Python | JavaScript  
-**Backend:** Spring Boot | Django  
-**Frontend:** HTML | CSS | Bootstrap  
-**Database:** MySQL  
-**Tools:** Git | Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,django,html,css,bootstrap,mysql,git,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annnuuupam&show_icons=true&theme=tokyonight" />
@@ -81,19 +82,33 @@ Building scalable backend systems, full-stack applications, and AI-driven soluti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annnuuupam&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annnuuupam&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anupam3062/  
-- 🌐 Portfolio: https://anupamkumar-portfolio.netlify.app/  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anupam3062/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://anupamkumar-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🎯 Open To Opportunities
-- Software Engineer (SDE)  
-- Backend Developer  
-- Full Stack Developer  
+- 💼 Software Engineer (SDE)  
+- ⚙️ Backend Developer  
+- 🌐 Full Stack Developer  
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me.*
+<p align="center">
+⭐ <b>If you like my work, consider giving a star!</b>
+</p>
