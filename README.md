@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Spring+Boot+%7C+AI%2FML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Spring+Boot+%7C+AI%2FML" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,spring,html,css,bootstrap,mysql,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,spring,html,css,bootstrap,mysql,git,postman" alt="Tech Stack" />
 </p>
 
 ---
@@ -75,15 +75,15 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annnuuupam&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=annnuuupam&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annnuuupam&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annnuuupam&theme=tokyonight" alt="GitHub Stats Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annnuuupam&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annnuuupam&theme=tokyonight" alt="Productive Time Activity" />
 </p>
 
 ---
@@ -92,11 +92,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anupam3062/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://anupamkumar-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
